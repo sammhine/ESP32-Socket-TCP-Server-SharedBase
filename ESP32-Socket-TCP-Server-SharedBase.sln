@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "ESP32-Socket-TCP-Server-SharedBase", "ESP32-Socket-TCP-Server-SharedBase.vgdbproj", "{93B0F489-CC01-4E89-89DD-A0EA002FFA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B0F489-CC01-4E89-89DD-A0EA002FFA3F}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{93B0F489-CC01-4E89-89DD-A0EA002FFA3F}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{93B0F489-CC01-4E89-89DD-A0EA002FFA3F}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{93B0F489-CC01-4E89-89DD-A0EA002FFA3F}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04210674-1B03-4D24-8281-8B23A9DFF04C}
+	EndGlobalSection
+EndGlobal
